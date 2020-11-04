@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-
-- 🔭 I’m currently working on __making Industry 4.0 true__.
+### A bit about me
+- 🔭 I’m currently working on __making Industry 4.0 come true__.
 - 🌱 I’m currently learning __modern techniques for Multivariate Statistical Process Control (MSPC)__.
 - 👯 I’m looking to collaborate on __high impact initiatives__.
 - 🤔 I’m looking for help with __finding new friends__.
