@@ -10,7 +10,7 @@ _B.Sc. Telecommunications Engineering_ at __Federal Institute of Ceará__ (Brazi
 - 🔭 I’m currently working __to make Industry 4.0 come true__.
 - 🌱 I’m currently learning __modern multivariate time series classification__.
 - 👯 I’m looking to collaborate on __high impact initiatives__.
-- 🤔 I’m looking for help with __NLP__.
+- 🤔 I’m looking for help with __Generative AI__.
 - 💬 Ask me about __Python, ML, Data Science, Games and Brazil__.
 - 📫 How to reach me: __andersonpachaves@gmail.com__
 - ⚡ Fun fact: __I have "green insects" phobia but green is my favorite color__.
